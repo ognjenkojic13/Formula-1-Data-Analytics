@@ -1,0 +1,15 @@
+requests
+pandas
+numpy
+fastapi
+uvicorn
+kafka-python
+pyarrow
+matplotlib
+seaborn
+scipy
+scikit-learn
+pyspark
+jupyter
+nbconvert
+ipykernel
